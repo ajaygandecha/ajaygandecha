@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 <br />
 
+<!--
 ### Certifications
 
 [<img align="left" alt="Intro. Python @ MIT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
@@ -59,4 +60,4 @@ Here are some ideas to get you started:
 [excel_expert]: https://apple.com
 [access]: https://apple.com
 [word_expert]: https://apple.com
-
+-->
