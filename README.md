@@ -18,7 +18,15 @@ Here are some ideas to get you started:
 ### Hello friends! My name is Ajay.
 
 <br />
----
+
+### Social Media
+
+[<img align="left" alt="YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+<br />
 
 ### 📺 Latest YouTube Videos
 
@@ -29,6 +37,7 @@ Here are some ideas to get you started:
 - [Tips to Reduce Stress during Remote Learning!](https://www.youtube.com/watch?v=RQt_Jl3QiqE)
 - [SAS Chapter 8 - Working with Raw Data in a DATA Step! | SAS Base Programming](https://www.youtube.com/watch?v=0EikJxGVegQ)
 <!-- YOUTUBE:END -->
+
 
 ### Test of Languages
 
@@ -61,3 +70,5 @@ Here are some ideas to get you started:
 [access]: https://apple.com
 [word_expert]: https://apple.com
 -->
+
+[youtube]: https://youtube.com/c/AjayGandecha
