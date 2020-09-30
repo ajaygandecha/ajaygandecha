@@ -75,3 +75,5 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/c/AjayGandecha
 [instagram]: https://instagram.com/ajaygandecha
 [twitter]: https://twitter.com/ajaygandecha
+[discord]: https://discord.com/invite/bKV4fA6
+[github]: https://github.com/ajaygandecha
