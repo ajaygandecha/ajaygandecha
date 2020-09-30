@@ -47,9 +47,14 @@ Here are some ideas to get you started:
 
 ### Certifications
 
-[<img align="left" style="color:red" alt="Microsoft Excel Expert" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" />][excel_expert]
+[<img align="left" alt="Intro. Python @ MIT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+[<img align="left" alt="Microsoft Excel Expert" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" />][excel_expert]
+[<img align="left" alt="Microsoft Access" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftaccess.svg" />][access]
+[<img align="left" alt="Microsoft Word Expert" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftword.svg" />][word_expert]
 
 
-
+[python]: https://apple.com
 [excel_expert]: https://apple.com
+[access]: https://apple.com
+[word_expert]: https://apple.com
 
