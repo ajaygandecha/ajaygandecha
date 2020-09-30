@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 
+<br />
+
 ### Certifications
 
 [<img align="left" alt="Intro. Python @ MIT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
