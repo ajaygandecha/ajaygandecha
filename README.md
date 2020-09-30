@@ -44,3 +44,12 @@ Here are some ideas to get you started:
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+
+### Certifications
+
+[<img align="left" alt="Microsoft Excel Expert" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/excel.svg" />][excel_expert]
+
+
+
+[excel_expert]: https://apple.com
+
