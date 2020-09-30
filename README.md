@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ### Hello friends! My name is Ajay.
 
 <br />
+---
+
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [(2020) How to Code Your Own Discord Bot in Python #6 - Custom Statuses!](https://www.youtube.com/watch?v=we2wd7iBiPA)
