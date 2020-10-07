@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [One Month into Remote Learning - Is it Really That Bad? + Tips for a Successful School Year!](https://www.youtube.com/watch?v=FpfmJTEncyI)
 - [(2020) How to Code Your Own Discord Bot in Python #7 - Store Data in CSV Files using Pandas!](https://www.youtube.com/watch?v=TMznFqxpRc8)
 - [(2020) How to Code Your Own Discord Bot in Python #6 - Custom Statuses!](https://www.youtube.com/watch?v=we2wd7iBiPA)
 - [SAS Chapter 9 - Using SAS Functions! | SAS Base Programming](https://www.youtube.com/watch?v=8A7RdMc22Ic)
 - [(2020) How to Code Your Own Discord Bot in Python #5 - Sending DMs and Private Messages!](https://www.youtube.com/watch?v=c7ECCpViRyQ)
-- [Tips to Reduce Stress during Remote Learning!](https://www.youtube.com/watch?v=RQt_Jl3QiqE)
 <!-- YOUTUBE:END -->
 
 
