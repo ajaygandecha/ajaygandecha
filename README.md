@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [(2020) How to Code Your Own Discord Bot in Python #8 - Kick and Ban Commands!](https://www.youtube.com/watch?v=Fvo6aXH87SM)
 - [One Month into Remote Learning - Is it Really That Bad? + Tips for a Successful School Year!](https://www.youtube.com/watch?v=FpfmJTEncyI)
 - [(2020) How to Code Your Own Discord Bot in Python #7 - Store Data in CSV Files using Pandas!](https://www.youtube.com/watch?v=TMznFqxpRc8)
 - [(2020) How to Code Your Own Discord Bot in Python #6 - Custom Statuses!](https://www.youtube.com/watch?v=we2wd7iBiPA)
 - [SAS Chapter 9 - Using SAS Functions! | SAS Base Programming](https://www.youtube.com/watch?v=8A7RdMc22Ic)
-- [(2020) How to Code Your Own Discord Bot in Python #5 - Sending DMs and Private Messages!](https://www.youtube.com/watch?v=c7ECCpViRyQ)
 <!-- YOUTUBE:END -->
 
 
