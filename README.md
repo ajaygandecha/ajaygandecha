@@ -17,11 +17,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [iOS vs Android App Development for Beginners - Which to Learn?](https://www.youtube.com/watch?v=VRcRjd9-VqA)
-- [One Year On YouTube - My Thoughts + Plans for Future Videos!](https://www.youtube.com/watch?v=OqZOb5edYS4)
-- [(2020) How to Code Your Own Discord Bot in Python #10 - Reaction Roles! [Livestream]](https://www.youtube.com/watch?v=THADIJqRmWE)
-- [(2020) How to Code Your Own Discord Bot in Python #9 - Sending Random Images!](https://www.youtube.com/watch?v=Z7RnAdp3VAo)
-- [SAS Chapter 10 - Concatenate and Merge Data Sets! | SAS Base Programming](https://www.youtube.com/watch?v=vogpLwJMsXM)
+- [APCS Number Systems Review: Using Binary, Octal, Hex, and Decimal Systems! | AP Computer Science A](https://www.youtube.com/watch?v=JYLJbVECJxs)
+- [Programming on iPad - Is iPad Good Enough for Programming?](https://www.youtube.com/watch?v=6wzuB77q4NI)
+- [How to QUICKLY Create Quizlet Flashcard Decks - No Manually Typing in Terms and Definitions!](https://www.youtube.com/watch?v=VMCO3YXl8nw)
+- [BEST Apps for Students and Remote Learning in 2020! - iOS and Android](https://www.youtube.com/watch?v=tBy5v5zIs20)
+- [BEST Widgets for iPadOS and iOS 13 Today View + How to Install!](https://www.youtube.com/watch?v=5zF0n6993rA)
 <!-- YOUTUBE:END -->
 
 
