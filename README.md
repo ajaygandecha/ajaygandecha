@@ -19,9 +19,9 @@
 <!-- YOUTUBE:START -->
 - [APCS Number Systems Review: Using Binary, Octal, Hex, and Decimal Systems! | AP Computer Science A](https://www.youtube.com/watch?v=JYLJbVECJxs)
 - [Programming on iPad - Is iPad Good Enough for Programming?](https://www.youtube.com/watch?v=6wzuB77q4NI)
+- [(2020) How to Code Your Own Discord Bot in Python #4 - Adding Commands To Your Bot!](https://www.youtube.com/watch?v=_p-u7_GilUQ)
 - [How to QUICKLY Create Quizlet Flashcard Decks - No Manually Typing in Terms and Definitions!](https://www.youtube.com/watch?v=VMCO3YXl8nw)
 - [BEST Apps for Students and Remote Learning in 2020! - iOS and Android](https://www.youtube.com/watch?v=tBy5v5zIs20)
-- [BEST Widgets for iPadOS and iOS 13 Today View + How to Install!](https://www.youtube.com/watch?v=5zF0n6993rA)
 <!-- YOUTUBE:END -->
 
 
