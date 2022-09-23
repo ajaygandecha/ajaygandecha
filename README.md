@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/ajaygandecha/">
+	<a href="https://www.ajaygandecha.com/">
 		<img src="https://img.shields.io/badge/Personal_Website-05122A?style=for-the-badge&logo=wordpress&logoColor=white" />
 	</a>
 	<a href="https://www.youtube.com/c/ajaygandecha/">
