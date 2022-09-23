@@ -4,16 +4,16 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/ajaygandecha/">
-		<img src="https://img.shields.io/badge/Personal_Website-05122A?style=flat&logo=wordpress&logoColor=white" />
+		<img src="https://img.shields.io/badge/Personal_Website-05122A?style=for-the-badge&logo=wordpress&logoColor=white" />
 	</a>
 	<a href="https://www.youtube.com/c/ajaygandecha/">
-		<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 	</a>
   <a href="https://www.linkedin.com/in/ajaygandecha/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://www.instagram.com/ajaygandecha/">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 
@@ -41,14 +41,6 @@
 
 <br />
 
-### Social Media
-
-[<img align="left" alt="YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
 <br />
 
 ### 📺 Latest YouTube Videos
@@ -61,24 +53,8 @@
 - [Programming on iPad - Is iPad Good Enough for Programming?](https://www.youtube.com/watch?v=6wzuB77q4NI)
 <!-- YOUTUBE:END -->
 
-
-### Test of Languages
-
-<img align="left" alt="swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"  />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  />
-
-<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-
-<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-
 <br />
-
+	
 <!--
 ### Certifications
 
@@ -93,9 +69,3 @@
 [access]: https://apple.com
 [word_expert]: https://apple.com
 -->
-
-[youtube]: https://youtube.com/c/AjayGandecha
-[instagram]: https://instagram.com/ajaygandecha
-[twitter]: https://twitter.com/ajaygandecha
-[discord]: https://discord.com/invite/bKV4fA6
-[github]: https://github.com/ajaygandecha
