@@ -1,6 +1,6 @@
-## This page is still under construction!
-
-## Hello friends! My name is Ajay. 👋
+<p align="center">
+	<img src="pics/github-banner-new.jpeg">
+</p>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/ajaygandecha/">
@@ -16,6 +16,7 @@
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
+## Hello friends! My name is Ajay. 👋
 
 ### 💻 Programming Languages:
 
@@ -54,18 +55,3 @@
 <!-- YOUTUBE:END -->
 
 <br />
-	
-<!--
-### Certifications
-
-[<img align="left" alt="Intro. Python @ MIT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
-[<img align="left" alt="Microsoft Excel Expert" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" />][excel_expert]
-[<img align="left" alt="Microsoft Access" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftaccess.svg" />][access]
-[<img align="left" alt="Microsoft Word Expert" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftword.svg" />][word_expert]
-
-
-[python]: https://apple.com
-[excel_expert]: https://apple.com
-[access]: https://apple.com
-[word_expert]: https://apple.com
--->
