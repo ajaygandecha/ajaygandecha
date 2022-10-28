@@ -20,7 +20,7 @@
 
 ## 👨🏾‍💻 About Me:
 
-🎓 I am sophomore majoring in **Computer Science** and **Statistics** with a minor in *Information Systems* at **UNC-Chapel Hill**.
+🎓 I am sophomore majoring in **Computer Science** and **Information Science** with a minor in *Data Science* at **UNC-Chapel Hill**.
 
 📽 I am a content creator and run my own YouTube channel, where I post videos relating to school, coding, and tech. As a student, I hope to use my platform to inspire other young people to code, to pursue their passions, and be excited about learning and creating new things.
 
