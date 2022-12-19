@@ -45,7 +45,7 @@
 
 ![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind_css)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
 ![PlanetScale](https://img.shields.io/badge/-PlanetScale-05122A?style=flat&logo=planetscale)
 
