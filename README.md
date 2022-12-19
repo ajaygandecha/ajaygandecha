@@ -41,7 +41,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
  
-### 🚀 Technologies:
+### 🧩 Web Frameworks:
+
+![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+
+### 🚀 Other Technologies:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)
@@ -50,6 +55,5 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 
 <br />
