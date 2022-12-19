@@ -45,6 +45,9 @@
 
 ![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind_css)
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
+![PlanetScale](https://img.shields.io/badge/-PlanetScale-05122A?style=flat&logo=planetscale)
 
 ### 🚀 Other Technologies:
 
@@ -53,6 +56,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudiocode&logoColor=3776AB)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
 
