@@ -50,6 +50,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
 ![PlanetScale](https://img.shields.io/badge/-PlanetScale-05122A?style=flat&logo=planetscale)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 
 ### 🚀 Other Technologies:
 
