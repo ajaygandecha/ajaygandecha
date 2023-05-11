@@ -32,8 +32,8 @@
 
 ### 💻 Programming Languages:
 
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
