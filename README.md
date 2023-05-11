@@ -51,14 +51,21 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
 ![PlanetScale](https://img.shields.io/badge/-PlanetScale-05122A?style=flat&logo=planetscale)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+
+### 🗄️ Data Science Tools and Frameworks:
+
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
+![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)
 
 ### 🚀 Other Technologies:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudiocode&logoColor=3776AB)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)
