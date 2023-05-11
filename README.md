@@ -42,7 +42,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
  
-### 🧩 Web Frameworks:
+### 🧩 Web Frameworks and Tools:
 
 ![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -52,8 +52,10 @@
 ![PlanetScale](https://img.shields.io/badge/-PlanetScale-05122A?style=flat&logo=planetscale)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![OpenShift](https://img.shields.io/badge/-OpenShift-05122A?style=flat&logo=redhatopenshift)
 
-### 🗄️ Data Science Tools and Frameworks:
+
+### 🗄️ Data Science Frameworks and Tools:
 
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)
