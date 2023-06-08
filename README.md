@@ -36,11 +36,7 @@
 
 🤩 I am passionate about technology, learning, solving problems, and sharing my experiences with others. I eagerly welcome opportunities to connect with others who want to learn more and whom I can learn from! 
 
-- Ajay
-
-GitHub Profile: https://github.com/ajaygandecha
-YouTube Channel: https://youtube.com/ajaygandecha 
-Personal Website: https://ajaygandecha.com
+\- Ajay
 
 ## 🛠 Tech Stack:
 
