@@ -20,13 +20,27 @@
 
 ## 👨🏾‍💻 About Me:
 
-🎓 I am sophomore majoring in **Computer Science** and **Information Science** with a minor in *Data Science* at **UNC-Chapel Hill**.
+🎓 I am a junior at **UNC-Chapel Hill**, majoring in **Computer Science** and **Information Science** and minoring in *Data Science*. I am actively seeking iOS development and full-stack development internship opportunities.
 
-📽 I am a content creator and run my own YouTube channel, where I post videos relating to school, coding, and tech. As a student, I hope to use my platform to inspire other young people to code, to pursue their passions, and be excited about learning and creating new things.
+🌱 I am passionate about using software to create mobile and web experiences that impact real people. I am also passionate about implementing thoughtful designs and visualizations to make these experiences more meaningful and impactful.
 
-📱 I am also a self-taught iOS developer. Throughout high school, I developed two apps, Geogsmart and PocketChem, which are currently available for free on the iOS App Store, for which I post updates periodically! I also manage my own personal website and blog, found in the links below. The website contains my blog posts as well as more information on Geogsmart and PocketChem.
+📱 I am experienced in leveraging Swift and SwiftUI using Xcode to develop iOS, iPadOS, and watchOS applications. I served as an iOS developer for Bubbly, an app designed to improve the condition of kids with CVI (cortical vision impairment), the #1 vision impairment diagnosis in the US, with researchers from the University of Northern Colorado and Harvard Medical School. Throughout high school, I developed two apps, Geogsmart and PocketChem, currently available for free on the iOS App Store, for which I post updates periodically. I continue to work on iOS app projects to release to the iOS App Store.
 
-🌱 I am passionate about technology, learning, and sharing my knowledge and experiences with others. I eagerly welcome opportunities to connect with others who want to learn more, and whom I can learn from!
+💻 I am also comfortable with developing full-stack web applications. I have designed, developed, and deployed projects using TypeScript, Next.js, React, and Angular. I also have practice with server-side development using Python and Node and developing APIs. I have also worked collaboratively in environments employing agile methodologies and utilizing Git / GitHub version control.
+
+🔍 I am the President of Carolina Analytics and Data Science @ UNC. Our organization aims to teach and promote data science on campus. I am also comfortable working with numerous data engineering and analysis tools, especially with Python.
+
+🎥 I am a content creator and run my own YouTube channel, where I post videos relating to school, coding, and tech. As a student, I hope to use my platform to inspire other young people to code, pursue their passions, and be excited about learning and creating new things. 
+
+🤠 In my free time, I enjoy learning about languages and linguistics. At UNC, I have taken three levels of Japanese and am currently learning Mandarin! I also enjoy cooking, traveling, and learning more about the world in which we live.
+
+🤩 I am passionate about technology, learning, solving problems, and sharing my experiences with others. I eagerly welcome opportunities to connect with others who want to learn more and whom I can learn from! 
+
+- Ajay
+
+GitHub Profile: https://github.com/ajaygandecha
+YouTube Channel: https://youtube.com/ajaygandecha 
+Personal Website: https://ajaygandecha.com
 
 ## 🛠 Tech Stack:
 
