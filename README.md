@@ -16,7 +16,7 @@
 		
 ## 👨🏾‍💻 About Me:
 
-🎓 I am a rising senior majoring in Computer Science and minoring in Data Science and Linguistics at UNC-Chapel Hill. I currrently serve as an Undergraduate Teaching Assistant at the UNC Department of Computer Science. I am the developer of Luduan, a Chinese language learning app for iOS. I have also worked on other iOS apps, such as PocketChem, a chemistry reference tool for high school students, and Geogsmart, a geography learning and quiz app.
+🎓 I am a rising senior majoring in Computer Science and minoring in Data Science at UNC-Chapel Hill. I currrently serve as a Student Instructor and Undergraduate Teaching Assistant at the UNC Department of Computer Science. I am the developer of Luduan, a Chinese language learning app for iOS. I have also worked on other iOS apps, such as PocketChem, a chemistry reference tool for high school students, and Geogsmart, a geography learning and quiz app.
 
 🍎 I am extremely passionate about computer science education, and developing pedagogical methods to increase engagement, passion, equity, and inclusiveness in computing! I am also interested in how computers and software can have this same effect in the classroom and enhance student learning, promote curiosity about new topics, and reach those previously excluded from quality education.
 
