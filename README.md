@@ -16,21 +16,27 @@
 		
 ## 👨🏾‍💻 About Me:
 
-🎓 I am a senior majoring in Computer Science and minoring in Data Science at UNC-Chapel Hill. I currrently serve as a Student Instructor and Undergraduate Teaching Assistant at the UNC Department of Computer Science. I am the developer of Luduan, a Chinese language learning app for iOS. I have also worked on other iOS apps, such as PocketChem, a chemistry reference tool for high school students, and Geogsmart, a geography learning and quiz app. I also am a full-stack software engineer for the Computer Science Experience Labs (CSXL) at UNC-Chapel Hill.
+Hello friends! My name is Ajay, and I a graduate student at the Department of Computer Science at UNC-Chapel Hill. I serve as the instructor of [COMP 426: Modern Web Programming](https://comp426-25s.github.io/) at UNC-Chapel Hill. I am also an iOS/macOS developer and have developed four apps for the App Store. I also am a full-stack software engineer for the Computer Science Experience Labs (CSXL) at UNC.
 
-🍎 I am extremely passionate about computer science education, and developing pedagogical methods to increase engagement, passion, equity, and inclusiveness in computing! I am also interested in how computers and software can have this same effect in the classroom and enhance student learning, promote curiosity about new topics, and reach those previously excluded from quality education.
-
-🤖 I am also interested in the intersection of computing and natural language. We communicate through language, and I enjoy learning about how computers process, understand, and communicate in human language is transforming how humans interact with computers. I am interested also interested in how computers can help people learn new languages, connecting of people that were previously disconnected through language barriers.
+🍎 I am passionate about computer science education, and developing pedagogical methods to increase engagement, passion, equity, and inclusiveness in computing! I am also interested in how computers and software can have this same effect in the classroom and enhance student learning and productivity, promote curiosity about new topics, and reach those previously excluded from quality education.
 
 🎨 I am also passionate about design! I believe that well-designed apps and software makes the user experience more meaningful and impactful, furthering the mission and goals of the app. I am interested in learning more about human-computer interaction and how design choices affect how people use apps, increase accessibility to allow more people to use the app, and what people think about the software they interact with every day.
 
 🌱 Lastly, I believe that as computer scientists and software engineers, we have a responsibility to use our knowledge and skills in a way that is ethical, thoughtful, and improves the human condition through social good. I am interested in the ethics of computing, as well making mobile and web apps that help real people!
 
-🀄 In my free time, I enjoy learning about languages and linguistics. I am currently learning Mandarin (大家好)! I also enjoy cooking, traveling, and learning more about the world in which we live.
+🀄 In my free time, I enjoy learning about languages and linguistics. I also enjoy cooking, traveling, and learning more about the world in which we live.
 
 \- Ajay
 
 ## 📱My Apps:
+
+### Screenboard for macOS
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift&logoColor=03c3ff)
+
+Screenboard is a MacOS allows you to annotate anywhere on your screen - great for teachers, presenters, students, and more. Built with **Swift** and **SwiftUI.**
+
+Learn more at [https://screenboardapp.com/](https://screenboardapp.com/)!
 
 ### Luduan for iOS - Chinese Language Learning App
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
