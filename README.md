@@ -34,7 +34,9 @@ Hello friends! My name is Ajay, and I a graduate student at the Department of Co
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swift&logoColor=03c3ff)
 
-Screenboard is a MacOS allows you to annotate anywhere on your screen - great for teachers, presenters, students, and more. Built with **Swift** and **SwiftUI.**
+Screenboard is a MacOS allows you to annotate anywhere on your screen - great for teachers, presenters, students, and more. Screenboard makes it easy to quickly toggle between annotating and interacting with other apps - and includes many familiar keyboard shortcuts that seamlessly switch between colors, tools, and modes. Users can annotate with freeform drawing or with shapes with ten customizable colors. Users can also add multiple pages, allowing them to add more drawing space without having to erase all their annotations. Screenboard has many customization options. You can customize the available colors, the appearance of the cursor and toolbar, and more! All customizations sync with iCloud to ensure that using Screenboard on multiple computers is a breeze.
+
+Screenboard is written in with **Swift** and **SwiftUI.**
 
 Learn more at [https://screenboardapp.com/](https://screenboardapp.com/)!
 
@@ -44,9 +46,7 @@ Learn more at [https://screenboardapp.com/](https://screenboardapp.com/)!
 ![SwiftData](https://img.shields.io/badge/-SwiftData-05122A?style=flat&logo=swift&logoColor=808080)
 ![CloudKit](https://img.shields.io/badge/-CloudKit-05122A?style=flat&logo=icloud&logoColor=03c3ff)
 
-Luduan is the ultimate, all-in-one companion app for students learning Chinese. Luduan makes it easy to study vocabulary, practice mastery, look up words and Chinese characters, and learn more about the Chinese language. 
-
-Users can create **customized study sets** to learn and categorize new vocabulary, and **organize study sets** in folders to group related sets, create and filter words by **tags** to group related vocabulary, play customizable **flashcard games** to improve your mastery of vocabulary, and improve their Chinese handwriting with a **handwriting practice** game. Luduan also keeps track of users' learning progress, providing **analytics** on commonly-missed words. Users can also learn more about the over 120,000 Chinese words in Luduan’s Word Dictionary, including information about alternate pronunciations, definitions, and associated measure words - as well as the over 9,000 Chinese Hanzi characters. Luduan's Hanzi Catalog includes animated stroke order diagrams and information on Hanzi radicals and components. Luduan also includes many reference tools, including an interactive Pinyin and Tones guide, bundled with customizable practice games to improve users' listening skills.
+Luduan is the ultimate, all-in-one companion app for students learning Chinese. Luduan makes it easy to study vocabulary, practice mastery, look up words and Chinese characters, and learn more about the Chinese language. Users can create customized study sets to learn and categorize new vocabulary, organize study sets in folders to group related sets, create and filter words by tags to group related vocabulary, play customizable flashcard games to improve your mastery of vocabulary, and improve their Chinese handwriting with a handwriting practice game. Luduan also keeps track of users' learning progress, providing analytics on commonly-missed words. Users can also learn more about the over 120,000 Chinese words in Luduan’s Word Dictionary, including information about alternate pronunciations, definitions, and associated measure words - as well as the over 9,000 Chinese Hanzi characters. Luduan's Hanzi Catalog includes animated stroke order diagrams and information on Hanzi radicals and components. Luduan also includes many reference tools, including an interactive Pinyin and Tones guide, bundled with customizable practice games to improve users' listening skills.
 
 
 Luduan is written purely in **Swift** and **SwiftUI** using the *MV architecture*. The app is *modularized*, separating business logic for the data layer, as well as commonly shared UI elements, into separate packages imported by the final project. Luduan utilizes **[SwiftData](https://developer.apple.com/xcode/swiftdata/)** with *[CloudKit](https://developer.apple.com/icloud/cloudkit/)* to seamlessly and automatically persist user information, study sets, and settings in realtime in the cloud across devices.
@@ -97,9 +97,9 @@ I have also actively developed apps using the *MV* and *MVVM* architecture and r
 **Frontend**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)
