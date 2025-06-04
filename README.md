@@ -16,7 +16,7 @@
 		
 ## 👨🏾‍💻 About Me:
 
-Hello friends! My name is Ajay, and I a graduate student at the Department of Computer Science at UNC-Chapel Hill. I serve as the instructor of [COMP 426: Modern Web Programming](https://comp426-25s.github.io/) at UNC-Chapel Hill. I am also an iOS/macOS developer and have developed four apps for the App Store. I also am a full-stack software engineer for the Computer Science Experience Labs (CSXL) at UNC.
+Hello friends! My name is Ajay, and I am a graduate student at the Department of Computer Science at UNC-Chapel Hill. I serve as the instructor of [COMP 426: Modern Web Programming](https://comp426-25s.github.io/) at UNC-Chapel Hill. I am also an iOS/macOS developer and have developed four apps for the App Store. I also am a full-stack software engineer for the Computer Science Experience Labs (CSXL) at UNC.
 
 🍎 I am passionate about computer science education, and developing pedagogical methods to increase engagement, passion, equity, and inclusiveness in computing! I am also interested in how computers and software can have this same effect in the classroom and enhance student learning and productivity, promote curiosity about new topics, and reach those previously excluded from quality education.
 
