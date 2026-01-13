@@ -36,7 +36,7 @@ Hello friends! My name is Ajay, and I am a graduate student at the Department of
 
 Screenboard is a MacOS allows you to annotate anywhere on your screen - great for teachers, presenters, students, and more. Screenboard makes it easy to quickly toggle between annotating and interacting with other apps - and includes many familiar keyboard shortcuts that seamlessly switch between colors, tools, and modes. Users can annotate with freeform drawing or with shapes with ten customizable colors. Users can also add multiple pages, allowing them to add more drawing space without having to erase all their annotations. Screenboard has many customization options. You can customize the available colors, the appearance of the cursor and toolbar, and more! All customizations sync with iCloud to ensure that using Screenboard on multiple computers is a breeze.
 
-Screenboard is written in with **Swift** and **SwiftUI.**
+Screenboard is written in with **Swift**, **SwiftUI**, and AppKit - with preferences stored in the cloud.
 
 Learn more at [https://screenboardapp.com/](https://screenboardapp.com/)!
 
