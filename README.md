@@ -99,6 +99,8 @@ I have also actively developed apps using the *MV* and *MVVM* architecture and r
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
+![Shadcn](https://img.shields.io/badge/-shadcn-05122A?style=flat&logo=shadcnui)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
@@ -106,6 +108,8 @@ I have also actively developed apps using the *MV* and *MVVM* architecture and r
 
 **Backend**
 
+![tRPC](https://img.shields.io/badge/-tRPC-05122A?style=flat&logo=trpc)
+![Drizzle](https://img.shields.io/badge/-Drizzle-05122A?style=flat&logo=drizzle)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=sqlalchemy)
